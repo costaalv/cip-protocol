@@ -1,8 +1,8 @@
 # Spectral Integrity Manifesto — CIP Protocol
 # Generated to ensure the invariance of native operators
-# Hashes computed with SHA-256 over the distributed artefacts
+# Hash algorithm: SHA-256
 
-d9b5ab98be9f76c63bad4a1a0a3922de15047b1aa50bf3185a9952efadf9cb54  binaries/cip-sdk-linux-idx6-en.zip
 0a8f874cc71e7b2f0a36a1aee494719e00f0b42c62261b6bbc6542c094e4ff36  binaries/cip-sdk-linux-idx0-en.zip
-92be81445aeb4d9d3ac95405e6427343a2200f1e00a568dceec16070edbc466f  notebooks/cip_protocol.ipynb
+d9b5ab98be9f76c63bad4a1a0a3922de15047b1aa50bf3185a9952efadf9cb54  binaries/cip-sdk-linux-idx6-en.zip
+14a1d51a8fa629d8410cfc02dda0ae9b000a5985756a8470925dbc0c45616ad0  notebooks/cip_protocol.ipynb
 06dc2b80b072039a010fd18754125c85c24e1b62025e341f3e9ca69f3f1acbc6  articles/cip_protocol.pdf
