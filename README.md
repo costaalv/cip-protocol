@@ -14,7 +14,9 @@ This repository constitutes the conceptual and operational record of the operato
 
 The stability of the projection allows for the construction of a protocol that utilises the spectral rigidity of arithmetic — **intrinsic to the operator defined herein** — to validate the integrity of digital artefacts. The CIP protocol demonstrates that the "structural resonance" **observed within the spectral projection of this operator** has immediate operational consequences for information security.
 
-## Notebook [Open in Colab]
+## Notebook [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+https://colab.research.google.com/github/costaalv/cip-protocol/blob/main/notebooks/cip_protocol.ipynb
+)
 
 The notebook operates exclusively on the provided binaries and produces auditable artefacts.
 
